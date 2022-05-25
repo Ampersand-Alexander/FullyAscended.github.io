@@ -1,4 +1,4 @@
-# Hello World
+# Hello!
 This is my github home page, my name is Alexander Tran. I am a student at [Cal State Fullerton](http://www.fullerton.edu/) learning to excel at programming.
 
 ## Here are some of my Project's I've worked on :
